@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.pyw
+build/
+dist/
+*.spec
+icon.ico
+icon.png
+*.exe
+ip_tray_state.json
+.venv/
+venv/
